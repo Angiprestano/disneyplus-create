@@ -4,10 +4,11 @@ function Homedisney() {
   return (
     <>
       <Container className="bg-dark">
-        <Card className=" text-white border-dark ps-5 pe-4 bg-dark pb-3 ">
+        <Card className=" text-white border-dark ps-5 pe-4 bg-dark pb-3">
           <Card.Img
             src="https://www.dueruote.it/content/dueruote/it/news/moto-scooter/2021/06/21/vespa-e-protagonista-in-luca/jcr:content/social-image.img.jpg/1624278992671.jpg"
             alt="Card image"
+            className=""
           />
         </Card>
 
