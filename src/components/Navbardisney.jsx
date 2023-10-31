@@ -16,28 +16,28 @@ function Navbardisney() {
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="me-auto ms-2">
             <Nav.Link href="#home" className="text-white">
-              Home
+              HOME
             </Nav.Link>
             <Nav.Link href="#home" className="ms-3 text-white ">
-              cerca
+              CERCA
             </Nav.Link>
             <Nav.Link href="#link" className="ms-3 text-white">
-              La tua lista
+              LA TUA LISTA
             </Nav.Link>
             <Nav.Link href="#link" className="ms-3 text-white">
               {" "}
-              Originals
+              ORIGINALS
             </Nav.Link>
             <Nav.Link href="#link" className="ms-3 text-white ">
-              Film
+              FILM
             </Nav.Link>
             <Nav.Link href="#link" className="ms-3 text-white">
-              Serie
+              SERIE
             </Nav.Link>
           </Nav>
         </Navbar.Collapse>
         <NavLink href="#link" className="text-white">
-          Angi
+          ANGI
         </NavLink>
         <img
           src="https://featuredanimation.com/wp-content/uploads/2022/02/Belle-Disney-Plus-Icon.jpg"
